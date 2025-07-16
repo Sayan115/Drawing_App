@@ -25,7 +25,7 @@ A simple and intuitive drawing application built in Kotlin for Android devices. 
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app here if available)*
+*(Will be added later on)*
 
 ---
 
@@ -36,8 +36,6 @@ A simple and intuitive drawing application built in Kotlin for Android devices. 
 - Android device or emulator
 - Kotlin enabled
 
-### Clone and Run
+### Download APK
 
-```bash
-git clone https://github.com/yourusername/DrawingApp.git
-cd DrawingApp
+
