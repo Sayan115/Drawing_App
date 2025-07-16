@@ -24,18 +24,21 @@ A simple and intuitive drawing application built in Kotlin for Android devices. 
 ---
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="img/img1.jpg" height="450" width="220">
+  <img src="img/img2.jpg" height="450" width="220">
+  <img src="img/img3.jpg" height="450" width="220">
+</p>
 
-*(Will be added later on)*
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Android Studio (latest stable version)
 - Android device or emulator
 - Kotlin enabled
 
 ### Download APK
-
+<a href="https://i.loadly.io/r1Gd1Bwn"> <i>Click here to download from Loadly.io</i></a>
 
